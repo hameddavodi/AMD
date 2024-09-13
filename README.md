@@ -44,4 +44,4 @@ My name is Hamed Davoodi, matriculation number 11267A. I utilized a PySpark Data
 ### 13. Similarity Check
    - Performed Jaccard similarity calculation on the candidate pairs to confirm document similarity.
 ## Dataset
-The dataset is sourced from the LinkedIn dataset on Kaggle, consisting of millions of user profiles and text-based features. This dataset is ideal for testing large-scale document similarity techniques.
+The dataset is sourced from the LinkedIn dataset on Kaggle. This dataset is ideal for testing large-scale document similarity techniques.
