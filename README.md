@@ -29,7 +29,7 @@ My name is Hamed Davoodi, matriculation number 11267A. I utilized a PySpark Data
 ### 8. Generate N-Grams
    - Created N-Gram sequences from the tokenized data to capture more contextual patterns.
 
-### 9. HashTF Features
+### 9. Zero-One Features
    - Applied one-hot encoding to convert N-Grams into feature vectors for each document.
 
 ### 10. MinHash Application
